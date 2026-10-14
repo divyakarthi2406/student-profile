@@ -1,0 +1,10 @@
+com\portal\servlet\LoginServlet.class
+com\portal\util\DBConnection.class
+com\portal\servlet\DeleteStudentServlet.class
+com\portal\servlet\FileServlet.class
+com\portal\servlet\LogoutServlet.class
+com\portal\model\Student.class
+com\portal\servlet\StudentListServlet.class
+com\portal\util\PasswordUtil.class
+com\portal\model\User.class
+com\portal\servlet\AddStudentServlet.class
